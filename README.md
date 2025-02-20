@@ -1,1 +1,1 @@
-# open-learn
+# school-dashboard-mern
